@@ -3,6 +3,7 @@ Beat detection via Processing and light show via WS2812 ring (directly connect v
 # Hardware
 
 * WS2812 16 pixel ring
+* 2x NRF2401 for transmission
 
 # Software
 
