@@ -1,4 +1,4 @@
-Beat detection via Processing and light show via WS2812 ring (directly connect via Serial)
+Beat detection via Processing and light show via WS2812 ring (connected to Arduino that is wirelessly connected to another Arduino that is connected to serial port)
 
 # Hardware
 
@@ -8,4 +8,4 @@ Beat detection via Processing and light show via WS2812 ring (directly connect v
 # Software
 
 * Beat detection is done on PC via Processing minim module
-* Beats and colors are passed to Arduino via Serial encoded bits (slow and really hard to do. Not recommended)
+* Beats and colors are passed to Arduino
